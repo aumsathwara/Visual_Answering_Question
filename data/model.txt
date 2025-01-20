@@ -1,0 +1,10 @@
+Link to trained weights of various models used in this project: 
+
+1. BERT and Vision Transformer Weights
+	Text and Multi-modal encoder -> BERT weights
+	Image Encoder -> VIT weights
+https://drive.google.com/drive/folders/1eRLodaMzFyocBVN0_7B0miak76asTEKp?usp=drive_link
+
+2.Fine-tuned VQA weights: 
+	VQA_model_checkpoint -> 
+https://drive.google.com/drive/folders/1Nla-kclA6hhOrC6tN8PNiG0MPC2mioVc?usp=drive_link

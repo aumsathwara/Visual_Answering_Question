@@ -1,0 +1,7 @@
+Links to the dataset used in this project:
+
+1. Indiana Chest X-rays dataset (Used for Model Pre-training): https://www.kaggle.com/datasets/raddar/chest-xrays-indiana-university/versions/1
+
+2. VQA-RAD dataset (Used for Fine-tuning VQA model): 
+https://osf.io/89kps/
+
