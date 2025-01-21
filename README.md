@@ -112,13 +112,6 @@ Once the environment is set up and the data is ready, you can run the **fine-tun
 2. Pass an image and a corresponding question as input.
 3. The model will provide an answer based on the image content.
 
-## Acknowledgments
-
-- **PyTorch**: For providing the deep learning framework.
-- **Hugging Face**: For the BERT model and transformer-based architectures.
-- **Indiana University Chest X-rays Dataset**: For providing the dataset used for pretraining.
-- **VQA-RAD Dataset**: For fine-tuning the model on medical questions.
-
 ## License
 
 This project is licensed under the MIT License.
